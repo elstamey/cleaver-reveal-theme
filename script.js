@@ -11,5 +11,5 @@ var Reveal=function(){"use strict";function e(e){return Mt||kt?(window.addEventL
         history: true,
         center: true,
         theme: 'default',
-        transition: 'default'
+        transition: 'none'
     })
