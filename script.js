@@ -11,5 +11,8 @@ var Reveal=function(){"use strict";function e(e){return Mt||kt?(window.addEventL
         history: true,
         center: true,
         theme: 'default',
-        transition: 'none'
+        transition: 'none',
+        dependencies: [
+                { src: 'plugin/notes-server/client.js', async: true }
+        ]
     })
