@@ -12,5 +12,6 @@ Reveal.initialize({
         history: true,
         center: true,
         theme: 'default',
-        transition: 'none'
+        transition: 'none',
+        showNotes: true
     })
