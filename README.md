@@ -1,16 +1,16 @@
-reveal-cleaver-theme
+cleaver-reveal-theme
 ================
 
 [Reveal.js](https://github.com/hakimel/reveal.js/) theme for [cleaver](https://github.com/jdan/cleaver). Take the best of both worlds!
 
-Small demo (sorry for image quality, will work on it) using [cleaver-template](https://github.com/sudodoki/cleaver-template)
-![Sample usage](https://github.com/sudodoki/reveal-cleaver-theme/raw/image/sample.gif)
+<!--Small demo (sorry for image quality, will work on it) using [cleaver-template](https://github.com/sudodoki/cleaver-template)-->
+<!--![Sample usage](https://github.com/sudodoki/reveal-cleaver-theme/raw/image/sample.gif)-->
 
 
 How to use this?
 ================
 Drop this line in your metadata (first paragraph in your presentation)  
-`theme: sudodoki/reveal-cleaver-theme`
+`theme: elstamey/cleaver-reveal-theme`
 
 Have any question/proposals?
 ============================
