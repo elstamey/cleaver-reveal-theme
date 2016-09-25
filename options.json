@@ -1,4 +1,5 @@
 {
   "override": true,
+  "slideNumber": true,
   "transition": "none"
 }
