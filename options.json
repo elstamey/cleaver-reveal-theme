@@ -1,3 +1,4 @@
 {
-  "override": true
+  "override": true,
+  "transition": "none"
 }
